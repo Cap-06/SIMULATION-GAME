@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://miro.medium.com/v2/resize:fit:1200/1*lrtKpD27dRJzWSJavZoGbQ.png");
+}
+
+#game{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 50px;
+}
